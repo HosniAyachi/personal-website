@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: ''}}>
+              <li style={{background: 'linear-gradient(#f2f3f7, #ffffff)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -15,14 +15,15 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hello world! <br />I'm Hosni</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://pdfhost.io/v/mlnVu5FB1_Hosni_Ayachi.pdf" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <h3>Have a look at my CV!</h3>
+                          <p><a className="btn btn-primary btn-learn" href="https://pdfhost.io/v/mlnVu5FB1_Hosni_Ayachi.pdf" target="_blank" rel="noopener noreferrer">English<i className="icon-download4" /></a><a className="btn btn-primary btn-learn" href="https://pdfhost.io/v/3tznZ4xDA_Hosni_Ayachi.pdf" target="_blank" rel="noopener noreferrer">French<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: ''}}>
+              <li style={{background: 'linear-gradient(#f2f3f7, #ffffff)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -36,7 +37,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: ''}}>
+              <li style={{background: 'linear-gradient(#f2f3f7, #ffffff)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">

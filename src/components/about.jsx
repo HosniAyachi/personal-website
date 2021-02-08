@@ -107,7 +107,7 @@ export default class About extends Component {
             <div className="col-md-2 image-center animate-box" ><img src="images/skill2.png" style={imgstyle}></img></div>
             <div className="col-md-2 image-center animate-box" ><img src="images/skill3.png" style={imgstyle}></img></div>
             <div className="col-md-2 image-center animate-box" ><img src="images/skill4.png" style={imgstyle}></img></div>
-            <div className="col-md-2 image-center animate-box" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" style={imgstyle}></img></div>
+            <div className="col-md-2 image-center animate-box" ><img src="images/skill5.png" style={imgstyle}></img></div>
             <div className="col-md-2 image-center animate-box" ><img src="images/skill6.png" style={imgstyle}></img></div>
             </div>
           </div>

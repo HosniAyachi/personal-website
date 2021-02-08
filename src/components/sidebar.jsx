@@ -23,22 +23,24 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/hosni-ayachi-17629712a/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a>          <a href="https://github.com/HosniAyachi" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+          
               </ul>
             </nav>
             <div className="colorlib-footer">
+              
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> <br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
-              </small></p>
+                <b>Open</b> for a 4 to 6 months internship, starting from April 2021 <br />
+                <b>Ouvert</b> à un stage de 4 à 6 mois à partir d'Avril 2021
+              </small></p><br/>
               <p><small>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos labore adipisci itaque exercitationem iste nostrum quas aliquam ratione laborum perspiciatis voluptates suscipit soluta eos, vitae fugiat repudiandae harum quae est.
-              </small></p>
+                Feel free to contact me: <br />
+                <b>Phone:</b> +33 7 58 54 57 99<br/>
+                <b>E-mail:</b> hosniayachi@outlook.com  <br/>
+              </small></p> <br/>
+              <p><small>
+                  Made by Hosni AYACHI <br></br>
+              </small></p>  
             </div>
           </aside>
         </div>
