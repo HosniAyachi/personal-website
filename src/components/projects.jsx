@@ -31,7 +31,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 										<h3><a href="">Bank of Taiwan: Client behavior prediction</a></h3>
-											<span style={{fontWeight:"bold"}}>ESPRIT ENGINEERING SCHOOL  |  SEP 2019 - Dec 2019</span><br/>
+											<span style={{fontWeight:"bold"}}>ESPRIT ENGINEERING SCHOOL  |  SEP 2019 - DEC 2019</span><br/>
 											<span>
 											Performed Data Manipulation, Visualisation, Analysis and then, Modeling with <b>Python libraries(Numpy, Pandas, Scikit-Learn)</b> in order to predict whether the clients were going to pay their dues next month or not..
 											</span>

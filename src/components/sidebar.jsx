@@ -31,13 +31,14 @@ export default class Sidebar extends Component {
               
               <p><small>
                 <b>Open</b> for a 4 to 6 months internship, starting from April 2021 <br />
-                <b>Ouvert</b> à un stage de 4 à 6 mois à partir d'Avril 2021
-              </small></p><br/>
+                <b>Ouvert</b> à un stage de 4 à 6 mois à partir d'Avril 2021<br/>
+                
+              </small></p>
               <p><small>
                 Feel free to contact me: <br />
                 <b>Phone:</b> +33 7 58 54 57 99<br/>
                 <b>E-mail:</b> hosniayachi@outlook.com  <br/>
-              </small></p> <br/> 
+              </small></p>
             </div>
           </aside>
         </div>
