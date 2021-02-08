@@ -37,10 +37,7 @@ export default class Sidebar extends Component {
                 Feel free to contact me: <br />
                 <b>Phone:</b> +33 7 58 54 57 99<br/>
                 <b>E-mail:</b> hosniayachi@outlook.com  <br/>
-              </small></p> <br/>
-              <p><small>
-                  Made by Hosni AYACHI <br></br>
-              </small></p>  
+              </small></p> <br/> 
             </div>
           </aside>
         </div>
